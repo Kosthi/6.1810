@@ -22,4 +22,8 @@ submissions/
 ph
 barrier
 /lab-*.json
-.DS_Store
+**/.DS_Store
+.idea/
+package.json
+package-lock.json
+node_modules
